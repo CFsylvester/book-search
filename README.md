@@ -1,6 +1,6 @@
 # Book Search
 
- <a href="https://sylvester-budget-tracker.herokuapp.com/">![Deployed App](https://img.shields.io/badge/-Deployed-success?style=for-the-badge)</a>![Repo Size](https://img.shields.io/github/repo-size/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)![Languages](https://img.shields.io/github/languages/count/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)![Prominent Language](https://img.shields.io/github/languages/top/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)
+ <a href="https://sylvester-book-search.herokuapp.com/">![Deployed App](https://img.shields.io/badge/-Deployed-success?style=for-the-badge)</a>![Repo Size](https://img.shields.io/github/repo-size/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)![Languages](https://img.shields.io/github/languages/count/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)![Prominent Language](https://img.shields.io/github/languages/top/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)
 
 ## Description
 Book Search is a full stack MERN application. Book Search allows a user to search for any related book to the title search input using the Google Books API. Additionally, a user can create an account that provides access to save book functionality and dashboard. If a user logs out the saved books will persist.
@@ -58,6 +58,7 @@ Book Search was refractored from an existing MERN app to utilize GraphQL impleme
   ![React-Scripts](https://img.shields.io/badge/-React--Scripts-9cf?style=for-the-badge)
   ![If-Env](https://img.shields.io/badge/-If--Env-white?style=for-the-badge)
   ![Concurrently](https://img.shields.io/badge/-Concurrently-9cf?style=for-the-badge)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-white?style=for-the-badge)
     <br />
   
   ![Heroku](https://img.shields.io/badge/Server-Heroku-inactive?style=for-the-badge)![MongoDB](https://img.shields.io/badge/Database-MongoDb-inactive?style=for-the-badge)![MongoDB Atlas](https://img.shields.io/badge/Cloud%20Database-MongoDB%20Atlas-inactive?style=for-the-badge) 
