@@ -3,7 +3,7 @@
  <a href="https://sylvester-budget-tracker.herokuapp.com/">![Deployed App](https://img.shields.io/badge/-Deployed-success?style=for-the-badge)</a>![Repo Size](https://img.shields.io/github/repo-size/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)![Languages](https://img.shields.io/github/languages/count/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)![Prominent Language](https://img.shields.io/github/languages/top/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)
 
 ## Description
-Book Search is a full stakc MERN application. Book Search allows a user to search for any related book to the title search input using the Google Books API. Additionally a user can create an account which provides access to a save book functionality and dashboard. If a user logs out the saved books will persist. 
+Book Search is a full stack MERN application. Book Search allows a user to search for any related book to the title search input using the Google Books API. Additionally, a user can create an account that provides access to save book functionality and dashboard. If a user logs out the saved books will persist.
 
 Book Search was refractored from an existing MERN app to utilize GraphQL implementations. The original RESTful API structure was transitioned to a GraphQL API using an Apollo Server. This was done through GraphQL queries and mutations. The purpose of changing the API structure is GraphQL lets you ask for what you want in a single query, saving bandwidth and reducing waterfall requests. It also enables clients to request their own unique data specifications therefore making the app faster. As a MERN application Book Search is created using MongoDB, Express, React and Node.js. 
 
@@ -43,7 +43,7 @@ Book Search was refractored from an existing MERN app to utilize GraphQL impleme
   ![JavaScript](https://img.shields.io/badge/-Javascript-white?style=for-the-badge)
   ![CSS](https://img.shields.io/badge/-CSS-9cf?style=for-the-badge)
   ![HTML5](https://img.shields.io/badge/-HTML5-white?style=for-the-badge)
-  ![Apollo](https://img.shields.io/badge/-Apollo-9cf?style=for-the-badge)
+  ![Apollo-Server](https://img.shields.io/badge/-Apollo--Server-9cf?style=for-the-badge)
   ![bcrypt](https://img.shields.io/badge/-Bcrypt-white?style=for-the-badge)
   ![JsonWebToken](https://img.shields.io/badge/-JsonWebToken-9cf?style=for-the-badge)
   ![Nodemon](https://img.shields.io/badge/-Nodemon-white?style=for-the-badge)
@@ -51,13 +51,13 @@ Book Search was refractored from an existing MERN app to utilize GraphQL impleme
   ![Testing-Library/React](https://img.shields.io/badge/-Testing--Library/React-white?style=for-the-badge)
   ![Testing-Library/User-Event](https://img.shields.io/badge/-Testing--Library/User--Event-9cf?style=for-the-badge)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge)
-   ![JWT-Decode](https://img.shields.io/badge/-JWT--Decode-9cf?style=for-the-badge)
-    ![React-Bootstrap](https://img.shields.io/badge/-React--Bootstrap-white?style=for-the-badge)
-    ![React-Dom](https://img.shields.io/badge/-React--Dom-9cf?style=for-the-badge)
-    ![React-Router-Dom](https://img.shields.io/badge/-React--Router--Dom-white?style=for-the-badge)
-    ![React-Scripts](https://img.shields.io/badge/-React--Scripts-9cf?style=for-the-badge)
-    ![If-Env](https://img.shields.io/badge/-If--Env-white?style=for-the-badge)
-     ![Concurrently](https://img.shields.io/badge/-Concurrently-9cf?style=for-the-badge)
+  ![JWT-Decode](https://img.shields.io/badge/-JWT--Decode-9cf?style=for-the-badge)
+  ![React-Bootstrap](https://img.shields.io/badge/-React--Bootstrap-white?style=for-the-badge)
+  ![React-Dom](https://img.shields.io/badge/-React--Dom-9cf?style=for-the-badge)
+  ![React-Router-Dom](https://img.shields.io/badge/-React--Router--Dom-white?style=for-the-badge)
+  ![React-Scripts](https://img.shields.io/badge/-React--Scripts-9cf?style=for-the-badge)
+  ![If-Env](https://img.shields.io/badge/-If--Env-white?style=for-the-badge)
+  ![Concurrently](https://img.shields.io/badge/-Concurrently-9cf?style=for-the-badge)
     <br />
   
   ![Heroku](https://img.shields.io/badge/Server-Heroku-inactive?style=for-the-badge)![MongoDB](https://img.shields.io/badge/Database-MongoDb-inactive?style=for-the-badge)![MongoDB Atlas](https://img.shields.io/badge/Cloud%20Database-MongoDB%20Atlas-inactive?style=for-the-badge) 
