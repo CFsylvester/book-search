@@ -28,6 +28,7 @@ const SignupForm = () => {
     }
 
     try {
+      console.log('USER FORM DATA PRIOR TO SUBMISSION-->', userFormData)
       const response = await createUser(userFormData);
 
       if (!response.ok) {
